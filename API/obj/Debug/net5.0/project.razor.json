@@ -3949,7 +3949,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onfocus' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onfocus' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4030,7 +4030,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onblur' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onblur' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4111,7 +4111,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onfocusin' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onfocusin' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4192,7 +4192,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onfocusout' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onfocusout' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4273,7 +4273,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmouseover' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onmouseover' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4354,7 +4354,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmouseout' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onmouseout' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4435,7 +4435,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmousemove' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onmousemove' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4516,7 +4516,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmousedown' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onmousedown' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4597,7 +4597,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmouseup' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onmouseup' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4678,7 +4678,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onclick' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onclick' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4759,7 +4759,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondblclick' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondblclick' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4840,7 +4840,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onwheel' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onwheel' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -4921,7 +4921,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmousewheel' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onmousewheel' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5002,7 +5002,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oncontextmenu' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oncontextmenu' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5083,7 +5083,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondrag' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondrag' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5164,7 +5164,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondragend' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondragend' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5245,7 +5245,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondragenter' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondragenter' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5326,7 +5326,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondragleave' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondragleave' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5407,7 +5407,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondragover' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondragover' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5488,7 +5488,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondragstart' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondragstart' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5569,7 +5569,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondrop' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondrop' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5650,7 +5650,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onkeydown' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onkeydown' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5731,7 +5731,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onkeyup' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onkeyup' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5812,7 +5812,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onkeypress' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onkeypress' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5893,7 +5893,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onchange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onchange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -5974,7 +5974,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oninput' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oninput' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6055,7 +6055,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oninvalid' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oninvalid' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6136,7 +6136,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onreset' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onreset' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6217,7 +6217,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onselect' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onselect' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6298,7 +6298,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onselectstart' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onselectstart' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6379,7 +6379,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onselectionchange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onselectionchange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6460,7 +6460,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onsubmit' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onsubmit' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6541,7 +6541,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onbeforecopy' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onbeforecopy' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6622,7 +6622,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onbeforecut' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onbeforecut' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6703,7 +6703,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onbeforepaste' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onbeforepaste' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6784,7 +6784,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oncopy' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oncopy' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6865,7 +6865,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oncut' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oncut' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -6946,7 +6946,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpaste' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpaste' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7027,7 +7027,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontouchcancel' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontouchcancel' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7108,7 +7108,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontouchend' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontouchend' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7189,7 +7189,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontouchmove' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontouchmove' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7270,7 +7270,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontouchstart' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontouchstart' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7351,7 +7351,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontouchenter' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontouchenter' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7432,7 +7432,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontouchleave' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontouchleave' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7513,7 +7513,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ongotpointercapture' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ongotpointercapture' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7594,7 +7594,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onlostpointercapture' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onlostpointercapture' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7675,7 +7675,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointercancel' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointercancel' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7756,7 +7756,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerdown' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerdown' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7837,7 +7837,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerenter' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerenter' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7918,7 +7918,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerleave' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerleave' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -7999,7 +7999,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointermove' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointermove' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8080,7 +8080,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerout' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerout' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8161,7 +8161,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerover' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerover' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8242,7 +8242,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerup' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerup' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8323,7 +8323,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oncanplay' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oncanplay' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8404,7 +8404,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oncanplaythrough' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oncanplaythrough' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8485,7 +8485,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@oncuechange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@oncuechange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8566,7 +8566,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondurationchange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondurationchange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8647,7 +8647,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onemptied' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onemptied' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8728,7 +8728,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpause' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpause' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8809,7 +8809,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onplay' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onplay' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8890,7 +8890,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onplaying' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onplaying' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -8971,7 +8971,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onratechange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onratechange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9052,7 +9052,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onseeked' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onseeked' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9133,7 +9133,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onseeking' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onseeking' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9214,7 +9214,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onstalled' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onstalled' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9295,7 +9295,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onstop' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onstop' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9376,7 +9376,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onsuspend' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onsuspend' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9457,7 +9457,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontimeupdate' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontimeupdate' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9538,7 +9538,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onvolumechange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onvolumechange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9619,7 +9619,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onwaiting' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onwaiting' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9700,7 +9700,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onloadstart' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onloadstart' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9781,7 +9781,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontimeout' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontimeout' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9862,7 +9862,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onabort' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onabort' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -9943,7 +9943,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onload' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onload' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10024,7 +10024,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onloadend' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onloadend' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10105,7 +10105,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onprogress' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onprogress' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10186,7 +10186,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onerror' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onerror' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10267,7 +10267,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onactivate' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onactivate' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10348,7 +10348,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onbeforeactivate' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onbeforeactivate' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10429,7 +10429,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onbeforedeactivate' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onbeforedeactivate' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10510,7 +10510,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ondeactivate' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ondeactivate' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10591,7 +10591,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onended' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onended' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10672,7 +10672,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onfullscreenchange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onfullscreenchange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10753,7 +10753,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onfullscreenerror' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onfullscreenerror' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10834,7 +10834,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onloadeddata' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onloadeddata' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10915,7 +10915,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onloadedmetadata' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onloadedmetadata' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -10996,7 +10996,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerlockchange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerlockchange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -11077,7 +11077,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onpointerlockerror' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onpointerlockerror' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -11158,7 +11158,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onreadystatechange' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onreadystatechange' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -11239,7 +11239,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onscroll' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@onscroll' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -11320,7 +11320,7 @@
               {
                 "Name": "preventDefault",
                 "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@ontoggle' event.",
+                "Documentation": "Specifies whether to cancel(if cancelable) the default action that belongs to the '@ontoggle' event.",
                 "Metadata": {
                   "Common.PropertyName": "PreventDefault"
                 }
@@ -11388,7 +11388,7 @@
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
-        "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting elements containing attributes with URL expected values.\n            </summary>\n            <remarks>Resolves URLs starting with '~/' (relative to the application's 'webroot' setting) that are not\n            targeted by other <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" />s. Runs prior to other <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" />s to ensure\n            application-relative URLs are resolved.</remarks>\n        ",
+        "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting elements containing attributes with URL expected values.\n            </summary>\n            <remarks>Resolves URLs starting with '~/'(relative to the application's 'webroot' setting) that are not\n            targeted by other <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" />s. Runs prior to other <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" />s to ensure\n            application-relative URLs are resolved.</remarks>\n        ",
         "CaseSensitive": false,
         "TagMatchingRules": [
           {
@@ -12852,7 +12852,7 @@
             "Kind": "ITagHelper",
             "Name": "asp-format",
             "TypeName": "System.String",
-            "Documentation": "\n            <summary>\n            The format string (see https://msdn.microsoft.com/en-us/library/txafckwd.aspx) used to format the\n            <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.For\" /> result. Sets the generated \"value\" attribute to that formatted string.\n            </summary>\n            <remarks>\n            Not used if the provided (see <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.InputTypeName\" />) or calculated \"type\" attribute value is\n            <c>checkbox</c>, <c>password</c>, or <c>radio</c>. That is, <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> is used when calling\n            <see cref=\"M:Microsoft.AspNetCore.Mvc.ViewFeatures.IHtmlGenerator.GenerateTextBox(Microsoft.AspNetCore.Mvc.Rendering.ViewContext,Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExplorer,System.String,System.Object,System.String,System.Object)\" />.\n            </remarks>\n        ",
+            "Documentation": "\n            <summary>\n            The format string(see https://msdn.microsoft.com/en-us/library/txafckwd.aspx) used to format the\n            <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.For\" /> result. Sets the generated \"value\" attribute to that formatted string.\n            </summary>\n            <remarks>\n            Not used if the provided(see <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.InputTypeName\" />) or calculated \"type\" attribute value is\n            <c>checkbox</c>, <c>password</c>, or <c>radio</c>. That is, <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> is used when calling\n            <see cref=\"M:Microsoft.AspNetCore.Mvc.ViewFeatures.IHtmlGenerator.GenerateTextBox(Microsoft.AspNetCore.Mvc.Rendering.ViewContext,Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExplorer,System.String,System.Object,System.String,System.Object)\" />.\n            </remarks>\n        ",
             "Metadata": {
               "Common.PropertyName": "Format"
             }
@@ -12861,7 +12861,7 @@
             "Kind": "ITagHelper",
             "Name": "type",
             "TypeName": "System.String",
-            "Documentation": "\n            <summary>\n            The type of the &lt;input&gt; element.\n            </summary>\n            <remarks>\n            Passed through to the generated HTML in all cases. Also used to determine the <see cref=\"T:Microsoft.AspNetCore.Mvc.ViewFeatures.IHtmlGenerator\" />\n            helper to call and the default <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> value. A default <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> is not calculated\n            if the provided (see <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.InputTypeName\" />) or calculated \"type\" attribute value is <c>checkbox</c>,\n            <c>hidden</c>, <c>password</c>, or <c>radio</c>.\n            </remarks>\n        ",
+            "Documentation": "\n            <summary>\n            The type of the &lt;input&gt; element.\n            </summary>\n            <remarks>\n            Passed through to the generated HTML in all cases. Also used to determine the <see cref=\"T:Microsoft.AspNetCore.Mvc.ViewFeatures.IHtmlGenerator\" />\n            helper to call and the default <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> value. A default <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> is not calculated\n            if the provided(see <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.InputTypeName\" />) or calculated \"type\" attribute value is <c>checkbox</c>,\n            <c>hidden</c>, <c>password</c>, or <c>radio</c>.\n            </remarks>\n        ",
             "Metadata": {
               "Common.PropertyName": "InputTypeName"
             }
@@ -13538,7 +13538,7 @@
             "Name": "asp-validation-summary",
             "TypeName": "Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary",
             "IsEnum": true,
-            "Documentation": "\n            <summary>\n            If <see cref=\"F:Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.All\" /> or <see cref=\"F:Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.ModelOnly\" />, appends a validation\n            summary. Otherwise (<see cref=\"F:Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.None\" />, the default), this tag helper does nothing.\n            </summary>\n            <exception cref=\"T:System.ArgumentException\">\n            Thrown if setter is called with an undefined <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper.ValidationSummary\" /> value e.g.\n            <c>(ValidationSummary)23</c>.\n            </exception>\n        ",
+            "Documentation": "\n            <summary>\n            If <see cref=\"F:Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.All\" /> or <see cref=\"F:Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.ModelOnly\" />, appends a validation\n            summary. Otherwise(<see cref=\"F:Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary.None\" />, the default), this tag helper does nothing.\n            </summary>\n            <exception cref=\"T:System.ArgumentException\">\n            Thrown if setter is called with an undefined <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper.ValidationSummary\" /> value e.g.\n            <c>(ValidationSummary)23</c>.\n            </exception>\n        ",
             "Metadata": {
               "Common.PropertyName": "ValidationSummary"
             }
@@ -15563,7 +15563,7 @@
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
-        "Documentation": "Ensures that the component or element will be preserved across renders if (and only if) the supplied key value matches.",
+        "Documentation": "Ensures that the component or element will be preserved across renders if(and only if) the supplied key value matches.",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -15583,7 +15583,7 @@
             "Kind": "Components.Key",
             "Name": "@key",
             "TypeName": "System.Object",
-            "Documentation": "Ensures that the component or element will be preserved across renders if (and only if) the supplied key value matches.",
+            "Documentation": "Ensures that the component or element will be preserved across renders if(and only if) the supplied key value matches.",
             "Metadata": {
               "Common.PropertyName": "Key",
               "Common.DirectiveAttribute": "True"
