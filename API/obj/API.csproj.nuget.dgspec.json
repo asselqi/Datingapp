@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {}
+    "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {
+    "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Assel Qizel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\obj\\",
+        "outputPath": "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Assel Qizel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.9, )"
@@ -55,6 +59,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
             }
           },
           "imports": [
