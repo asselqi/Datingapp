@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {}
+    "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {
+    "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Assel Qizel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Assel Qizel\\Desktop\\Datingapp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Assel Qizel\\AppData\\Roaming\\NuGet\\NuGet.Config"

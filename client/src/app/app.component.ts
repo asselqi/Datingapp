@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
       this.users = response;
     }, error => {
       console.log(error);
-    })
+    });
   }
 
   ngOnInit() {
